@@ -17,3 +17,5 @@ the top goals of this language are:
 - minimal syntax sugar (not religious though like Go)
 - library driven mostly and not language driven.
 - DSL's not as a goal, but as a consequence of macros.
+- compiles fast! use regular grammar and modular compilation. think zig
+- type inference. no one needs to type all that crap. We have IDE's
