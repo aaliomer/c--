@@ -4,7 +4,7 @@ It should be easier to pick up and more productive than Go.
 
 the top goals of this language are:
 - interoperability with c and possibly other functional languages with algebraic data types (why can't we call an elm function? or let elm call c--?)
-- readability. rust and c++ are very difficult to read. nim, go and python are closer to what we want
+- readability. rust and c++ are very difficult to read. nim, crystal, go and python are closer to what we want.
 - no garbage collection, no runtime and no built in allocator (think zig)
 - real algebraic data types and possibly dependent types (think idris + elm)
 - polymorphism in generics and limited function overloading (can't overload functions with the same number of params)
