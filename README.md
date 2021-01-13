@@ -20,3 +20,4 @@ the top goals of this language are:
 - compiles fast! use regular grammar and modular compilation. think zig
 - type inference. no one needs to type all that crap. We have IDE's
 - one or two ways to do one thing (instead of super opinionated languages)
+- expression based
