@@ -22,3 +22,4 @@ the top goals of this language are:
 - one or two ways to do one thing (instead of super opinionated languages)
 - expression based
 - simple memory ownership/borrowing as well as weak and shared references similar to c++ with automatic resource management 
+- add ad-hoc methods to types outside their package (think scale)
